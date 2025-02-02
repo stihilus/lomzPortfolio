@@ -1,0 +1,21 @@
+# Build directory
+/build/
+/build/*
+
+# Common system files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you're using any)
+/node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo 
