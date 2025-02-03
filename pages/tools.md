@@ -1,3 +1,11 @@
+## [ditherCam](ditherCam.html)
+
+![ditherCam](images/DitherCam.png)
+
+A real-time dithering camera web app that applies retro-style effects to your camera.
+
+{{hr}}
+
 ## [ditherApp](ditherApp.html)
 
 ![ditherApp](images/ditheringApp.png)
